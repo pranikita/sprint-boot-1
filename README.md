@@ -1,4 +1,4 @@
-Interview exercise
+spring boot exercise
 -------------------
 Imagine you're working as a programmer for a company called Silver Bars Marketplace and you have just
 received a new requirement. In it we would like to display to our users how much demand for silver bars
@@ -39,7 +39,7 @@ Implementation Details:
 --------------------------
 
 
-How to build Password Rules Service
+How to build app
 -----------------------------------
 This application require 
 	i) Maven maven-3.5.X and Java 8 and above version
